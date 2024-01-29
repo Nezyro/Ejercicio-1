@@ -1,0 +1,37 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  max-width: 800px;
+}
+
+h1, h2, h4 {
+  color: #1f3b52;
+}
+
+hr {
+  border-top: 2px solid #1f3b52;
+}
+
+address {
+  font-style: normal;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+
+a {
+  color: #1f3b52;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.section-divider {
+  border-top: 2px solid #1f3b52;
+}
